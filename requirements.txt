@@ -1,5 +1,6 @@
 pymongo
 dnspython
+distribute
 scrapy
 scrapyd
 scrapy-heroku
