@@ -3,3 +3,4 @@ dnspython
 scrapy
 scrapyd
 scrapy-heroku
+setuptools
