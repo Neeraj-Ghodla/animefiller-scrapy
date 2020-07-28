@@ -1,0 +1,5 @@
+build/
+project.egg-info/
+*.yml
+*.cfg
+setup.py
