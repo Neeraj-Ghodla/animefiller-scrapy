@@ -1,5 +1,5 @@
 build/
 project.egg-info/
 *.yml
-*.cfg
 setup.py
+animefiller/__pycache__/
