@@ -17,4 +17,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 'Updating DB'
-        run: curl https://animefiller.herokuapp.com/schedule.json -d project=default -d spider=animefiller
+        run: curl https://scrapeanimefiller.herokuapp.com/schedule.json -d project=default -d spider=animefiller
